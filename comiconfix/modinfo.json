@@ -1,0 +1,20 @@
+{
+    "context": "client",
+    "identifier": "com.pa.stuart98.comiconhotfix",
+    "display_name": "Commander Icon Fix",
+    "description": "Fixes the build bar icons for the Enderstryke71 and Nefelpitou Commanders",
+    "author": "Stuart98, KillerKiwiJuice",
+    "version": "1.0",
+    "signature": "not yet implemented",
+    "priority": 100,
+    "enabled": true,
+    "icon": "http://i.imgur.com/qhSITHd.png?1",
+    "forum": "https://forums.uberent.com/threads/rel-stuart98s-minimods.59559/",
+    "category": [
+        "Icon",
+		"Hotfix",
+		"Commander"
+    ],
+    "date": "2016/05/14",
+    "build": "89755"
+}
