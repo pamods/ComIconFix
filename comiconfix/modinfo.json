@@ -3,8 +3,8 @@
     "identifier": "com.pa.stuart98.comiconhotfix",
     "display_name": "Commander Icon Fix",
     "description": "Fixes the build bar icons for the Enderstryke71 and Nefelpitou Commanders",
-    "author": "Stuart98, KillerKiwiJuice",
-    "version": "1.0",
+    "author": "Stuart98",
+    "version": "1.1",
     "signature": "not yet implemented",
     "priority": 100,
     "enabled": true,
@@ -15,6 +15,6 @@
 		"Hotfix",
 		"Commander"
     ],
-    "date": "2016/05/14",
-    "build": "89755"
+    "date": "2016/10/05",
+    "build": "94684"
 }
